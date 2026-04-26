@@ -270,8 +270,8 @@ Contributions are welcome! Please feel free to submit pull requests.
 
 ## Support
 
-For issues and questions, please contact developer@example.com
+For issues and questions, please contact 8252984743
 
 ---
 
-**Built with ❤️ for learning and demonstration purposes**
+**Built with ❤️ MD ASIF HUSAIN**
